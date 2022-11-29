@@ -1,0 +1,7 @@
+Thông tin sinh viên:
+Tên: Đỗ Ngọc Duy Hưng
+MSSV: 20145267
+Thuộc lớp Trí Tuệ nhân tạo chiều thứ 2
+link-back-up:
+Bài đếm số ngón tay:  https://github.com/duyhungg/demsongontay
+Bài cảnh cáo khi chạm tay vào mặt:  https://github.com/duyhungg/AI_face-hand
